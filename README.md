@@ -40,27 +40,6 @@ Unit tests
 
 Integration tests
 
-Edge case validation
-
-discount_platform/
-│
-├── campaigns/
-│   ├── models.py
-│   ├── serializers.py
-│   ├── views.py
-│   ├── services.py
-│   ├── tests.py
-│   ├── tests_api.py
-│   └── management/
-│       └── commands/
-│           └── seed_sample.py
-│
-├── discount_platform/
-│   ├── settings.py
-│   ├── urls.py
-│
-└── README.md
-
 
 
 API Endpoints
